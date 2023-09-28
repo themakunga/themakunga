@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Martinez Villarroel</h1>
-<h3 align="center">FullStack Developer with more than 7 years of experience and 3 years as technical leadership, with experience on CI/CD, SCRUM, Requirements analysis; Business, corporate and SME vision; always attentive to his work team and in the cycle of constant learning and mentoring.</h3>
+<h3 align="center">FullStack Developer with more than 10 years of experience and 5 years as technical leadership, with experience on CI/CD, SCRUM, Requirements analysis; Business, corporate and SME vision; always attentive to his work team and in the cycle of constant learning and mentoring.</h3>
 
 - 🔭 I’m currently working on [Transbank-sdk-nodejs](https://github.com/themakunga/transbank-sdk-node)
 

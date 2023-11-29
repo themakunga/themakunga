@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nicolas Martinez Villarroel</h1>
-<h3 align="center">FullStack Developer with more than 10 years of experience and 5 years as technical leadership, with experience on CI/CD, SCRUM, Requirements analysis; Business, corporate and SME vision; always attentive to his work team and in the cycle of constant learning and mentoring.</h3>
+# Hi 👋, I'm Nicolas Martinez Villarroel
+_FullStack Developer with more than 10 years of experience and 5 years as technical leadership, with experience on CI/CD, SCRUM, Requirements analysis; Business, corporate and SME vision; always attentive to his work team and in the cycle of constant learning and mentoring._
 
-- 🔭 I’m currently working on [Transbank-sdk-nodejs](https://github.com/themakunga/transbank-sdk-node)
+- 🔭 I’m currently working on [Packages Library](https://github.com/42devs/packages_library)
 
 - 🌱 I’m currently learning **go, terraform, groovy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/themakunga](https://github.com/themakunga)
 
-- 💬 Ask me about **VueJS, expressJS**
+- 💬 Ask me about **TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML**
 
-- 📫 How to reach me **nmartinezv@icloud.com**
+- 📫 How to reach me **nicolas@42devs.cl**
 
 - ⚡ Interests **Software, technology, open source hardware, podcast, movies y series.**
 

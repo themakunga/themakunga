@@ -7,7 +7,7 @@
 With over 10 years of experience in software development and 5 years in technical leadership, I specialize in CI/CD, SCRUM methodologies, and comprehensive requirements analysis. I bring a strong business and corporate vision—from SMEs to enterprise levels—and I am deeply committed to my teams, fostering a culture of continuous learning, collaboration, and mentoring.
 
 ### 🎯 Current Focus
-*   **Working on:** [Packages Library](https://github.com/42devs/packages_library)
+*   **Working on:** [Nix Syste](https://github.com/themakunga/nix-systems)
 *   **Learning:** Go, Terraform, Groovy
 *   **Ask me about:** TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML
 *   **Interests:** Software architecture, open-source hardware, technology, podcasts, movies, and series.
@@ -20,7 +20,7 @@ With over 10 years of experience in software development and 5 years in technica
 Con más de 10 años de experiencia en desarrollo de software y 5 años en liderazgo técnico, me especializo en CI/CD, metodologías SCRUM y análisis exhaustivo de requisitos. Aporto una sólida visión comercial y corporativa (desde PYMES hasta nivel corporativo) y estoy profundamente comprometido con mis equipos, fomentando una cultura de aprendizaje continuo, colaboración y mentoría.
 
 ### 🎯 Enfoque Actual
-*   **Trabajando en:** [Packages Library](https://github.com/42devs/packages_library)
+*   **Trabajando en:** [Nix System](https://github.com/themakunga/nix-systems)
 *   **Aprendiendo:** Go, Terraform, Groovy
 *   **Pregúntame sobre:** TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML
 *   **Intereses:** Arquitectura de software, hardware de código abierto, tecnología, podcasts, películas y series.

@@ -1,4 +1,6 @@
 # Nicolas Villarroel
+
+![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=flat-square&logo=github&logoColor=white)
 **Infrastrucre Consultant & Technical Lead**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nicolas-martinez-villarroel)
@@ -7,29 +9,33 @@
 With over 10 years of experience in software development and 5 years in technical leadership, I specialize in CI/CD, SCRUM methodologies, and comprehensive requirements analysis. I bring a strong business and corporate vision—from SMEs to enterprise levels—and I am deeply committed to my teams, fostering a culture of continuous learning, collaboration, and mentoring.
 
 ### 🎯 Current Focus
-*   **Working on:** [Nix Syste](https://github.com/themakunga/nix-systems)
-*   **Learning:** Go, Terraform, Groovy
-*   **Ask me about:** TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML
-*   **Interests:** Software architecture, open-source hardware, technology, podcasts, movies, and series.
+
+- **Working on:** [Nix Syste](https://github.com/themakunga/nix-systems)
+- **Learning:** Go, Terraform, Groovy
+- **Ask me about:** TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML
+- **Interests:** Software architecture, open-source hardware, technology, podcasts, movies, and series.
 
 ---
 
 # Nicolás Villarroel
+
 **Consultor de Ingraestructura y Líder Técnico**
 
 Con más de 10 años de experiencia en desarrollo de software y 5 años en liderazgo técnico, me especializo en CI/CD, metodologías SCRUM y análisis exhaustivo de requisitos. Aporto una sólida visión comercial y corporativa (desde PYMES hasta nivel corporativo) y estoy profundamente comprometido con mis equipos, fomentando una cultura de aprendizaje continuo, colaboración y mentoría.
 
 ### 🎯 Enfoque Actual
-*   **Trabajando en:** [Nix System](https://github.com/themakunga/nix-systems)
-*   **Aprendiendo:** Go, Terraform, Groovy
-*   **Pregúntame sobre:** TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML
-*   **Intereses:** Arquitectura de software, hardware de código abierto, tecnología, podcasts, películas y series.
+
+- **Trabajando en:** [Nix System](https://github.com/themakunga/nix-systems)
+- **Aprendiendo:** Go, Terraform, Groovy
+- **Pregúntame sobre:** TypeScript, NodeJS, VueJS, Terraform, Pulumi, YAML
+- **Intereses:** Arquitectura de software, hardware de código abierto, tecnología, podcasts, películas y series.
 
 ---
 
 ### 📊 GitHub Stats
 
 [![TheMakunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=themakunga&show_icons=true&theme=transparent)](https://github.com/themakunga)
+
 ### 🛠️ Languages and Tools
 
 **Languages**  
@@ -86,3 +92,13 @@ Con más de 10 años de experiencia en desarrollo de software y 5 años en lider
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+
+## Project directory / Directorio de proyectos
+
+| Project                                                            | Focus / Enfoque                                                    |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [nix-systems](https://github.com/themakunga/nix-systems)           | NixOS and macOS infrastructure / Infraestructura NixOS y macOS     |
+| [keyboards](https://github.com/themakunga/keyboards)               | QMK firmware for EVA01 and EVA02 / Firmware QMK para EVA01 y EVA02 |
+| [agent-glados](https://github.com/themakunga/agent-glados)         | Shared agent speech and integration / Voz e integración de agentes |
+| [obsidian-journal](https://github.com/themakunga/obsidian-journal) | Journal skill and rollups / Skill y resúmenes del journal          |
+| [tennant.nvim](https://github.com/themakunga/tennant.nvim)         | Neovim notifications and speech / Notificaciones y voz en Neovim   |
